@@ -1,0 +1,9 @@
+[package]
+name = "alfred"
+version = "0.1.0"
+authors = ["Sonny Scroggin <scrogson@gmail.com>"]
+
+[dependencies]
+chrono = "0.2"
+clap = "2"
+slack = "0.16.0"
